@@ -33,6 +33,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at <Mail Address>.
+If you have any questions or concerns about this Privacy Policy, please contact us by joining our [Discord server](<Link>) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
 
 By accessing and/or using StupidityDB and ReviewDB, you consent to our Privacy Policy.
