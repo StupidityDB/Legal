@@ -9,7 +9,7 @@ Please read these Terms of Service ("Terms") carefully before using the Stupidit
 By using the Service, you agree that you will:
 * Not be racist, discriminatory, or hateful towards any individual or group based on race, religion, gender, or any other protected characteristic.
 * Not use extreme slurs, offensive language, or engage in any form of harassment, bullying, or intimidation.
-* Not be offensive, abusive, defamatory, or otherwise engage in behavior that may harm or offend others, or that may violate applicable laws or regulations.
+* Not be overly offensive, abusive, defamatory, or otherwise engage in behavior that may harm or offend others, or that may violate applicable laws or regulations.
 * Not violate Discord's Terms of Service while accessing or using our Service.
 
 ## User Responsibility
