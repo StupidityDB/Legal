@@ -1,8 +1,8 @@
 # StupidityDB & ReviewDB Privacy Policy
 
-Last updated: <Last Updated Date>
+Last updated: 19/05/2023
 
-This Privacy Policy outlines how StupidityDB, the team behind StupidityDB and ReviewDB, collects, uses, and discloses your personal information when you use our service, available through our REST API at <REST API URL>. We are committed to protecting your privacy and ensuring that your personal information is handled in a secure and responsible manner. By using our service, you agree to the collection and use of your information in accordance with this Privacy Policy.
+This Privacy Policy outlines how StupidityDB, the team behind StupidityDB and ReviewDB, collects, uses, and discloses your personal information when you use our service, available through our REST API at https://manti.vendicated.dev/. We are committed to protecting your privacy and ensuring that your personal information is handled in a secure and responsible manner. By using our service, you agree to the collection and use of your information in accordance with this Privacy Policy.
 
 ## Information We Collect
 
@@ -33,6 +33,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us by joining our [Discord server](<Link>) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
+If you have any questions or concerns about this Privacy Policy, please contact us by joining our [Discord server](https://discord.gg/6VMq5Um6xs) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
 
 By accessing and/or using StupidityDB and ReviewDB, you consent to our Privacy Policy.
