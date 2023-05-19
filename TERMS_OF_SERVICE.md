@@ -1,8 +1,8 @@
 # StupidityDB & ReviewDB Terms of Service
 
-Last Updated: <Last Updated Date>
+Last Updated: 19/05/2023
 
-Please read these Terms of Service ("Terms") carefully before using the StupidityDB and ReviewDB services, available through our REST API at <REST API URL> ("Service"), operated by StupidityDB ("us", "we", or "our"). Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. By accessing or using the Service, you agree to be bound by these Terms.
+Please read these Terms of Service ("Terms") carefully before using the StupidityDB and ReviewDB services, available through our REST API at https://manti.vendicated.dev/ ("Service"), operated by StupidityDB ("us", "we", or "our"). Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. By accessing or using the Service, you agree to be bound by these Terms.
 
 ## Acceptable Use
 
@@ -20,7 +20,7 @@ You are solely responsible for your actions while using the Service, including a
 
 We reserve the right, at our sole discretion, to terminate or suspend your access to the Service, without prior notice or liability, if you breach these Terms. Termination may include the removal of your account, temporary suspension, or indefinite ban from the Service. Upon termination, your right to use the Service will immediately cease.
 
-If you wish to appeal your termination, you may join our [Discord server](<Link>) and open a ticket to discuss the matter with our team. The decision to reinstate your access to the Service is at our sole discretion and is not guaranteed.
+If you wish to appeal your termination, you may join our [Discord server](https://discord.gg/uANw9s4Jnn) and open a ticket to discuss the matter with our team. The decision to reinstate your access to the Service is at our sole discretion and is not guaranteed.
 
 ## Changes to the Terms of Service
 
@@ -36,7 +36,7 @@ Your use of the Service is also subject to our Privacy Policy, which is incorpor
 
 ## Contact Us
 
-If you have any questions about these Terms, please contact us by joining our [Discord server](<Link>) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
+If you have any questions about these Terms, please contact us by joining our [Discord server](https://discord.gg/6VMq5Um6xs) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
 
 By accessing and/or using StupidityDB and ReviewDB, you agree to be bound by these Terms of Service.
  
