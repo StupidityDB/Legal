@@ -10,7 +10,7 @@ When you use our service, we may collect the following types of personal data:
 
 * **IP Address:** We collect and store your IP address for moderation and anti-abuse purposes to maintain the security and integrity of our service.
 * **Discord Information:** We collect and store your publicly available Discord username, ID, and avatar URL. This information is used to let others identify you across our service.
-
+* **Twitter Information:** We collect and store your publicly available Twitter username, display name, ID, and avatar URL. This information is used to let others identify you across our service.
 ## Legal Basis for Processing
 
 In accordance with GDPR, we have a legal basis for processing your personal data:
@@ -52,4 +52,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or concerns about this Privacy Policy or if you wish to exercise any of your data protection rights, please contact us by joining our [Discord server](https://discord.gg/6VMq5Um6xs) or by creating an issue at https://github.com/StupidityDB/Legal/issues.
 
-By accessing and/or using StupidityDB and ReviewDB, you consent to our Privacy Policy.
+By accessing and/or using StupidityDB and ReviewDB (for example by checking a user's reviews, signing up to ReviewDB or leaving a review), you consent to our Privacy Policy.
